@@ -1,0 +1,3 @@
+NOTE
+
+The source code for the NXT Segway was made by Laurens Valk of Robot Square at robotsquare.com
